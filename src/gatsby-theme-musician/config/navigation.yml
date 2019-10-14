@@ -1,7 +1,5 @@
 navigation:
   - text: Remodels
     url: "#releases"
-  - text: Repairs
-    url: "#shows"
   - text: Contact
     url: "#contact"

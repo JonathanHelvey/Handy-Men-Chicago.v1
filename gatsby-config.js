@@ -7,7 +7,7 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Handy Men Chicago",
+    title: "Chi Town Handymen",
     description: "",
     siteUrl: "https://github.com/ekafyi/starter-musician-theme"
   },
