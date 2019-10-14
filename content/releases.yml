@@ -1,0 +1,17 @@
+- title: Remodeled Kitchen
+  date: 2018-01-01
+  release_type: kitchen
+  image: "./images/wall-repair.jpg"
+  links:
+
+- title: Remodeled Bathroom
+  date: 2019-01-01
+  release_type: bathroom
+  image: "./images/remodel.jpg"
+  links:
+
+- title: Remodeled House
+  date: 2019-10-01
+  release_type: house
+  image: "./images/kitchen.jpg"
+  links:

@@ -1,0 +1,20 @@
+artist:
+  name: Handy Men Chicago
+  tagline: We fix and design all your home needs!
+  # seo_title:
+  # seo_description:
+  # contact_twitter_username:
+  # contact_phone:
+  # contact_email:
+
+social:
+  - name: Facebook
+    url: https://facebook.com
+  - name: Instagram
+    url: https://instagram.com
+  - name: Twitter
+    url: https://twitter.com
+  - name: Youtube
+    url: https://youtube.com
+
+site_language: en
