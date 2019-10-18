@@ -1,4 +1,4 @@
-- title: Kitchen
+- title: Kitchen Design
   date: 2018-01-01
   release_type: kitchen
   image: "./images/wall-repair.jpg"
@@ -6,12 +6,12 @@
 
 - title: Bathroom
   date: 2019-01-01
-  release_type: bathroom
+  release_type: Bathroom Remodel
   image: "./images/remodel.jpg"
   links:
 
 - title: Home
   date: 2019-10-01
-  release_type: house
+  release_type: Home Repairs
   image: "./images/kitchen.jpg"
   links:
