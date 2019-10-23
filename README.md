@@ -24,4 +24,4 @@ https://chitownhandymen.com
 
 ### Demo
 
-<img src="ChiTownHandy.png" width="800" height="800" />
+<img src="ChiTownHandy.png" />
